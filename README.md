@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satishdamo
-- 👀 I’m interested in Software Development, Computer Vision
-- 🌱 I’m currently learning Machine Learning and Mobile Application Development
+- 👀 I’m interested in Software Development, Computer Vision and Generative AI
+- 🌱 I’m currently working on Machine Learning and Mobile Application Development
 - 💞️ I’m looking to collaborate on opensource/Funded AI projects 
 - 📫 How to reach me , I am reachable at satish.j.damodaran@gmail.com
 
